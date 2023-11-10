@@ -28,6 +28,8 @@ Step7:
 Free device global memory with cudaFree and free host memory allocated with malloc before concluding the program.
 
 ## Program:
+Developed By: ANTO JESSI A 
+Register No. 212222040009
 #include "common.h"
 #include <cuda_runtime.h>
 #include <stdio.h>
